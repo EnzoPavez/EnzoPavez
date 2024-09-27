@@ -28,7 +28,7 @@
 - 📫 Cómo contactarme: [Correo electrónico](mailto:enzopavez1996@gmail.com)
 
 ---
-
+<!-- 
 ### 🛠 Habilidades Técnicas
 
 <p align="center">
@@ -70,7 +70,7 @@
 3. **[Reporte de KPI's](https://github.com/EnzoPavez/reporte-kpis)** - Seguimiento de indicadores clave de rendimiento para medir el progreso hacia los objetivos empresariales.
 
 ---
-
+--->
 ### 📈 Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EnzoPavez&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
