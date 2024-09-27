@@ -1,11 +1,16 @@
-<h1 align="center">Enzo Pavez</h1>
+<h1 align="center">¡Hola! Soy Enzo Pavez</h1>
 <h3 align="center">Desarrollador de Power BI | Análisis de Datos | Visualización de Datos</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
-  <img src="https://img.shields.io/badge/SQL-Data%20Querying-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/DAX-Power%20BI%20Formulas-green?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX">
-  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-green?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-%231572B6.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
 </p>
 
 <p align="center">
@@ -28,19 +33,31 @@
 
 <p align="center">
   <a href="https://powerbi.microsoft.com/">
-    <img src="https://your-image-url.com/powerbi.gif" alt="Power BI" width="100px">
+    <img src="https://your-image-url.com/powerbi.gif" alt="Power BI" width="80px">
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/">
-    <img src="https://your-image-url.com/sql.gif" alt="SQL" width="100px">
+  <a href="https://www.mysql.com/">
+    <img src="https://your-image-url.com/mysql.gif" alt="MySQL" width="80px">
   </a>
-  <a href="https://docs.microsoft.com/en-us/dax/">
-    <img src="https://your-image-url.com/dax.gif" alt="DAX" width="100px">
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-    <img src="https://your-image-url.com/excel.gif" alt="Excel" width="100px">
+  <a href="https://www.postgresql.org/">
+    <img src="https://your-image-url.com/postgresql.gif" alt="PostgreSQL" width="80px">
   </a>
   <a href="https://www.python.org/">
-    <img src="https://your-image-url.com/python.gif" alt="Python" width="100px">
+    <img src="https://your-image-url.com/python.gif" alt="Python" width="80px">
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://your-image-url.com/figma.gif" alt="Figma" width="80px">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
+    <img src="https://your-image-url.com/html.gif" alt="HTML" width="80px">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://your-image-url.com/css.gif" alt="CSS" width="80px">
+  </a>
+  <a href="https://www.notion.so/">
+    <img src="https://your-image-url.com/notion.gif" alt="Notion" width="80px">
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+    <img src="https://your-image-url.com/excel.gif" alt="Excel" width="80px">
   </a>
 </p>
 
