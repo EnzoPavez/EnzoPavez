@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Enzo Pavez</h1>
+<h1 align="center">Enzo Pavez</h1>
 <h3 align="center">Desarrollador de Power BI | Análisis de Datos | Visualización de Datos</h3>
 
 <p align="center">
@@ -26,16 +26,36 @@
 
 ### 🛠 Habilidades Técnicas
 
-- **Power BI**: Diseño de informes y dashboards interactivos
-- **DAX**: Creación de medidas complejas para análisis avanzado
-- **SQL**: Consulta de bases de datos para obtener información relevante
-- **Excel**: Análisis y visualización de datos
-- **Python**: Análisis de datos
+<p align="center">
+  <a href="https://powerbi.microsoft.com/">
+    <img src="https://your-image-url.com/powerbi.gif" alt="Power BI" width="100px">
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/">
+    <img src="https://your-image-url.com/sql.gif" alt="SQL" width="100px">
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dax/">
+    <img src="https://your-image-url.com/dax.gif" alt="DAX" width="100px">
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+    <img src="https://your-image-url.com/excel.gif" alt="Excel" width="100px">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://your-image-url.com/python.gif" alt="Python" width="100px">
+  </a>
+</p>
 
+---
 
+### 📊 Proyectos Destacados
+
+1. **[Dashboard de Ventas](https://github.com/EnzoPavez/dashboard-ventas)** - Dashboard interactivo que muestra las ventas mensuales, comparaciones anuales, análisis de productos más vendidos y segmentación de clientes.
+2. **[Análisis de Producción](https://github.com/EnzoPavez/analisis-produccion)** - Visualización de la eficiencia de la producción, identificación de cuellos de botella y análisis de costos.
+3. **[Reporte de KPI's](https://github.com/EnzoPavez/reporte-kpis)** - Seguimiento de indicadores clave de rendimiento para medir el progreso hacia los objetivos empresariales.
+
+---
 
 ### 📈 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&theme=radical" alt="Lenguajes más usados">
+  <img src="https://github-readme-stats.vercel.app/api?username=EnzoPavez&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPavez&layout=compact&theme=radical" alt="Lenguajes más usados">
 </p>
