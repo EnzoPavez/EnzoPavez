@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Enzo Pavez</h1>
-<h3 align="center">Desarrollador de Power BI | Análisis de Datos | Visualización de Datos</h3>
+<h3 align="center">Senior Data Warehouse Analyst | Power BI | Visualización de Datos</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
@@ -21,10 +21,12 @@
 
 ### 🚀 Sobre Mí
 
-- 🔭 Empresa en la que trabajo: **Datua como Senior Data Analytics**
-- 🌱 Aprendiendo más sobre: Power Query, R y Python para análisis de datos
-- 👨‍💻 Certificaciones: PL-300 Power BI Data Analyst (en progreso)
-- 💬 Pregúntame sobre: Modelado de datos, DAX y visualización de datos
+- 🔭 Actualmente: **Senior Data Warehouse Analyst en Datua IA (Bilbao, España)**
+- 🌱 Aprendiendo más sobre: Fabric, Python avanzado y R para análisis de datos
+- 🎓 Certificaciones: Microsoft Certified Fabric Analytics Engineer Associate, Microsoft Certified Data Engineering on Fabric Associate, Power BI Data Analyst Associate
+- 🧑‍🏫 Experiencia docente en Coderhouse, ICARO, Unión Informática y Classgap (2022-2024)
+- 💬 Pregúntame sobre: Power BI, SQL Server, integración de datos y automatización con SSIS
+- 🌐 Idiomas: Español (nativo) e inglés (básico)
 - 📫 Cómo contactarme: [Correo electrónico](mailto:enzopavez1996@gmail.com)
 
 ---
