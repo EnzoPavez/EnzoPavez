@@ -52,6 +52,12 @@ Modelos semánticos y dashboards en Power BI, con Purview y DataHub para linaje 
 
 #### [Machete](https://machetedev.com) · Plataforma de preparación de certificaciones Microsoft
 
+<p align="center">
+  <a href="https://machetedev.com">
+    <img src="assets/machete-demo.gif" alt="Demo de Machete" width="700">
+  </a>
+</p>
+
 Web gratuita para practicar exámenes DP-600, DP-700 y DP-800, con modo examen cronometrado y modo estudio con explicaciones. Nació porque las plataformas existentes cobran suscripción y no se parecen al examen real.
 
 Lo construí entero en solitario: producto, base de datos, backend y frontend.
@@ -63,9 +69,39 @@ Lo construí entero en solitario: producto, base de datos, backend y frontend.
 
 ---
 
-### Estadísticas de GitHub
+### Experiencia
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnzoPavez&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPavez&layout=compact&theme=radical" alt="Lenguajes más usados">
-</p>
+#### Senior Data Warehouse Analyst · Datua IA · Enero 2024 – Actualidad
+
+Lidero el diseño de soluciones de datos en proyectos de sector público y privado.
+
+- Migración de plataformas analíticas hacia Microsoft Fabric: arquitectura lakehouse por capas (Bronze, Silver, Gold) sobre OneLake, pipelines en Data Factory y gobernanza con Purview.
+- Procesos ETL/ELT con SSIS, SQL Server, Python y PySpark, con foco en rendimiento y escalabilidad en la ingesta desde múltiples orígenes.
+- Modelado del Data Warehouse y de las capas de explotación que sostienen los informes de negocio: esquemas en estrella y criterios de calidad del dato.
+- Coordinación de equipos ágiles en Scrum, gestión de tareas en Azure DevOps y documentación técnica en Wiki y GitHub.
+
+#### Analista BI & Data Analytics · Inteligencia Analítica · Junio 2023 – Febrero 2024
+
+- Migración de entornos SSIS, SSAS y SQL Server a una nueva versión, adaptando paquetes ETL, procedimientos y cubos sin cortar la operación.
+- Procesos de integración y análisis en SQL Server 2019 con T-SQL, procedimientos almacenados, funciones y triggers, normalizando información desde orígenes heterogéneos.
+- Automatización de flujos ETL con SSIS, cubos OLAP en SSAS y capa de visualización en Power BI y SSRS.
+
+#### Científico de Datos · Previnsan · Enero 2019 – Agosto 2022
+
+Análisis de datos y modelos predictivos en el sector asegurador.
+
+- Modelos de tarificación considerando edad, ubicación e historial de siniestros.
+- Modelos predictivos para anticipar tendencias y comportamiento de clientes.
+- Segmentación de clientes por comportamiento e historial para personalizar producto y marketing.
+- Automatización de procesos operativos en gestión de siniestros y suscripciones.
+- Visualización en Tableau, Power BI y Python para soporte a la toma de decisiones.
+
+---
+
+### Formación
+
+- **Ingeniería Industrial** · UTN Facultad Regional San Rafael
+- **Data Scientist** · Coderhouse (2022–2023)
+- **Data Analytics** · Coderhouse (2022–2023)
+
+**Certificaciones Microsoft:** Fabric Analytics Engineer Associate · Data Engineering on Fabric Associate · Power BI Data Analyst Associate · SQL AI Developer Associate
