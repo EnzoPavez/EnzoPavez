@@ -67,11 +67,6 @@ Lo construí entero en solitario: producto, base de datos, backend y frontend.
 - **Rendimiento:** agregaciones resueltas en SQL en lugar de en cliente, reduciendo drásticamente el volumen de datos transferido.
 - **Stack:** Next.js 15, React 19, Supabase, Tailwind CSS, Vitest.
 
-<p align="center">
-  <a href="https://machetedev.com">
-    <img src="assets/machete-preview.png" alt="Pantalla de examen de Machete" width="700">
-  </a>
-</p>
 
 ---
 
