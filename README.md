@@ -29,3 +29,43 @@
 - Aprendiendo a fondo: PySpark, orquestación con Airflow y NiFi, y gobernanza con Purview.
 - Pregúntame sobre Microsoft Fabric, SQL Server, modelado de datos o automatización con SSIS.
 - Contacto: [enzopavez1996@gmail.com](mailto:enzopavez1996@gmail.com) · [LinkedIn](https://linkedin.com/in/enzopavez)
+
+---
+
+### Qué hago
+
+**Ingesta e integración**
+Consolidación de datos desde orígenes heterogéneos con SSIS, Data Factory y NiFi. Procesos batch idempotentes, reprocesables y con control de estado.
+
+**Modelado y almacenamiento**
+Data Warehouses en SQL Server con esquemas en estrella, y arquitecturas lakehouse por capas sobre OneLake. Diseño pensando en cómo se va a consultar, no solo en cómo se guarda.
+
+**Transformación**
+SQL y T-SQL para lo que el motor hace mejor, Python y PySpark en notebooks para el resto. Prefiero llevar el trabajo pesado a la base de datos siempre que se pueda.
+
+**Explotación y gobernanza**
+Modelos semánticos y dashboards en Power BI, con Purview y DataHub para linaje y catálogo.
+
+---
+
+### Proyecto destacado
+
+#### [Machete](https://machetedev.com) · Plataforma de preparación de certificaciones Microsoft
+
+Web gratuita para practicar exámenes DP-600, DP-700 y DP-800, con modo examen cronometrado y modo estudio con explicaciones. Nació porque las plataformas existentes cobran suscripción y no se parecen al examen real.
+
+Lo construí entero en solitario: producto, base de datos, backend y frontend.
+
+- **Base de datos:** PostgreSQL con 23 tablas, 24 migraciones versionadas, lógica de negocio en funciones PL/pgSQL y seguridad a nivel de fila.
+- **Contenido:** pipeline batch de carga con manifiesto de estado reconstruible, scripts de inserción idempotentes y un validador automático de reglas con su propia batería de tests.
+- **Rendimiento:** agregaciones resueltas en SQL en lugar de en cliente, reduciendo drásticamente el volumen de datos transferido.
+- **Stack:** Next.js 15, React 19, Supabase, Tailwind CSS, Vitest.
+
+---
+
+### Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EnzoPavez&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPavez&layout=compact&theme=radical" alt="Lenguajes más usados">
+</p>
