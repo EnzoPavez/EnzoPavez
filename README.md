@@ -1,80 +1,31 @@
-<h1 align="center">¡Hola! Soy Enzo Pavez</h1>
-<h3 align="center">Senior Data Warehouse Analyst | Power BI | Visualización de Datos</h3>
+<h1 align="center">Hola, soy Enzo Pavez</h1>
+<h3 align="center">Data Engineer | Microsoft Fabric · SQL Server · Python</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-%231572B6.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">
+  <img src="https://img.shields.io/badge/Apache%20NiFi-728E9B?style=for-the-badge&logo=apache&logoColor=white" alt="NiFi">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps">
 </p>
 
 <p align="center">
-  📊 Desarrollador con experiencia en el diseño y desarrollo de dashboards interactivos en Power BI, centrado en la toma de decisiones basada en datos.
-</p>
-
----
-
-### 🚀 Sobre Mí
-
-- 🔭 Actualmente: **Senior Data Warehouse Analyst en Datua IA (Bilbao, España)**
-- 🌱 Aprendiendo más sobre: Fabric, Python avanzado y R para análisis de datos
-- 🎓 Certificaciones: Microsoft Certified Fabric Analytics Engineer Associate, Microsoft Certified Data Engineering on Fabric Associate, Power BI Data Analyst Associate
-- 🧑‍🏫 Experiencia docente en Coderhouse, ICARO, Unión Informática y Classgap (2022-2024)
-- 💬 Pregúntame sobre: Power BI, SQL Server, integración de datos y automatización con SSIS
-- 🌐 Idiomas: Español (nativo) e inglés (básico)
-- 📫 Cómo contactarme: [Correo electrónico](mailto:enzopavez1996@gmail.com)
-
----
-<!-- 
-### 🛠 Habilidades Técnicas
-
-<p align="center">
-  <a href="https://powerbi.microsoft.com/">
-    <img src="https://your-image-url.com/powerbi.gif" alt="Power BI" width="80px">
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://your-image-url.com/mysql.gif" alt="MySQL" width="80px">
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://your-image-url.com/postgresql.gif" alt="PostgreSQL" width="80px">
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://your-image-url.com/python.gif" alt="Python" width="80px">
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://your-image-url.com/figma.gif" alt="Figma" width="80px">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
-    <img src="https://your-image-url.com/html.gif" alt="HTML" width="80px">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://your-image-url.com/css.gif" alt="CSS" width="80px">
-  </a>
-  <a href="https://www.notion.so/">
-    <img src="https://your-image-url.com/notion.gif" alt="Notion" width="80px">
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-    <img src="https://your-image-url.com/excel.gif" alt="Excel" width="80px">
-  </a>
+  Construyo plataformas de datos sobre el stack Microsoft: ingesta, pipelines ETL/ELT,
+  arquitecturas lakehouse por capas y la capa de explotación que las convierte en decisiones.
 </p>
 
 ---
 
-### 📊 Proyectos Destacados
+### Sobre mí
 
-1. **[Dashboard de Ventas](https://github.com/EnzoPavez/dashboard-ventas)** - Dashboard interactivo que muestra las ventas mensuales, comparaciones anuales, análisis de productos más vendidos y segmentación de clientes.
-2. **[Análisis de Producción](https://github.com/EnzoPavez/analisis-produccion)** - Visualización de la eficiencia de la producción, identificación de cuellos de botella y análisis de costos.
-3. **[Reporte de KPI's](https://github.com/EnzoPavez/reporte-kpis)** - Seguimiento de indicadores clave de rendimiento para medir el progreso hacia los objetivos empresariales.
-
----
---->
-### 📈 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnzoPavez&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoPavez&layout=compact&theme=radical" alt="Lenguajes más usados">
-</p>
+- Actualmente **Senior Data Warehouse Analyst en Datua IA**, Bilbao.
+- Trabajo la cadena completa del dato: integración desde múltiples orígenes, modelado de Data Warehouse y arquitectura lakehouse (Bronze, Silver, Gold) sobre Microsoft Fabric y OneLake.
+- Certificado por Microsoft en Fabric Analytics Engineer, Data Engineering on Fabric, Power BI Data Analyst y SQL AI Developer.
+- Base de Ingeniería Industrial, lo que me hace pensar los problemas en términos de procesos y cuellos de botella.
+- Aprendiendo a fondo: PySpark, orquestación con Airflow y NiFi, y gobernanza con Purview.
+- Pregúntame sobre Microsoft Fabric, SQL Server, modelado de datos o automatización con SSIS.
+- Contacto: [enzopavez1996@gmail.com](mailto:enzopavez1996@gmail.com) · [LinkedIn](https://linkedin.com/in/enzopavez)
