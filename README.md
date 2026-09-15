@@ -54,7 +54,7 @@ Modelos semánticos y dashboards en Power BI, con Purview y DataHub para linaje 
 
 <p align="center">
   <a href="https://machetedev.com">
-    <img src="assets/machete-demo.gif" alt="Demo de Machete" width="700">
+    <img src="assets/machete-banner.gif" alt="Machete" width="700">
   </a>
 </p>
 
@@ -66,6 +66,12 @@ Lo construí entero en solitario: producto, base de datos, backend y frontend.
 - **Contenido:** pipeline batch de carga con manifiesto de estado reconstruible, scripts de inserción idempotentes y un validador automático de reglas con su propia batería de tests.
 - **Rendimiento:** agregaciones resueltas en SQL en lugar de en cliente, reduciendo drásticamente el volumen de datos transferido.
 - **Stack:** Next.js 15, React 19, Supabase, Tailwind CSS, Vitest.
+
+<p align="center">
+  <a href="https://machetedev.com">
+    <img src="assets/machete-preview.png" alt="Pantalla de examen de Machete" width="700">
+  </a>
+</p>
 
 ---
 
@@ -85,16 +91,6 @@ Lidero el diseño de soluciones de datos en proyectos de sector público y priva
 - Migración de entornos SSIS, SSAS y SQL Server a una nueva versión, adaptando paquetes ETL, procedimientos y cubos sin cortar la operación.
 - Procesos de integración y análisis en SQL Server 2019 con T-SQL, procedimientos almacenados, funciones y triggers, normalizando información desde orígenes heterogéneos.
 - Automatización de flujos ETL con SSIS, cubos OLAP en SSAS y capa de visualización en Power BI y SSRS.
-
-#### Científico de Datos · Previnsan · Enero 2019 – Agosto 2022
-
-Análisis de datos y modelos predictivos en el sector asegurador.
-
-- Modelos de tarificación considerando edad, ubicación e historial de siniestros.
-- Modelos predictivos para anticipar tendencias y comportamiento de clientes.
-- Segmentación de clientes por comportamiento e historial para personalizar producto y marketing.
-- Automatización de procesos operativos en gestión de siniestros y suscripciones.
-- Visualización en Tableau, Power BI y Python para soporte a la toma de decisiones.
 
 ---
 
