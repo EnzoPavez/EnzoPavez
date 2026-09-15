@@ -54,7 +54,7 @@ Modelos semánticos y dashboards en Power BI, con Purview y DataHub para linaje 
 
 <p align="center">
   <a href="https://machetedev.com">
-    <img src="assets/machete-banner.gif" alt="Machete" width="700">
+    <img src="assets/machete-banner.gif" alt="Machete" width="350">
   </a>
 </p>
 
