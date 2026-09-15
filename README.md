@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Enzo Pavez</h1>
-<h3 align="center">Data Engineer | Microsoft Fabric · SQL Server · Python</h3>
+<h3 align="center">Data & BI Engineer | Microsoft Fabric · SQL Server · Python</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric">
